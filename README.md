@@ -5,7 +5,7 @@
 
 # Hospital Patient Satisfaction Prediction
 
-Machine Learning Project • University Assignment
+Machine Learning Project 
 
 This project predicts patient satisfaction levels in a hospital environment using machine-learning classification algorithms. The workflow follows the required assignment structure: data loading, preprocessing, feature engineering, model training, model comparison, visualization, and conclusion.
 
